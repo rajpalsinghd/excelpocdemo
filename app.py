@@ -60,4 +60,4 @@ def save_file_to_db():
 
 
 
-app.run(debug=True)
+app.run()
